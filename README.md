@@ -1,4 +1,4 @@
-## Olá Sou a Jéssica e sou estudante de web Java Full Stack.
+## Hello!! I'm a full stack java student
 <div 
   align="center">
   <a href="https://github.com/jhessidelima">
