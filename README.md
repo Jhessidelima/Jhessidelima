@@ -1,6 +1,5 @@
 ## Hello!! I'm Jéssica a full stack java student
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/101137045/191637207-896c89ca-f4cc-4ab6-87f5-ba9d56fee95d.gif)
 
 <div 
   align="center">
@@ -27,6 +26,7 @@
  <a href="https://discord.gg/JhessyL" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/jessica-lima33" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:jhessidelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img align="right" alt="Jessi-pic" src="https://cdn.discordapp.com/attachments/1022298058270183424/1022314119719833610/ezgif.com-gif-maker.gif">
 </div>
 
   ![snake gif](https://github.com/Jhessidelima/Jhessidelima/blob/output/github-contribution-grid-snake.svg)
